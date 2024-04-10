@@ -55,7 +55,7 @@
         >
           <div class="file-icon">
             <img
-              src="https://cdnjs.cloudflare.com/ajax/libs/material-design-icons/4.0.0/png/file/folder/materialicons/36dp/2x/baseline_folder_black_36dp.png"
+              src="https://cloudflare-r2-oss-f0a.pages.dev/raw/file-icon-image-19.png"
               width="36"
               height="36"
               alt="Folder"
@@ -76,7 +76,7 @@
         >
           <div class="file-icon">
             <img
-              src="https://cdnjs.cloudflare.com/ajax/libs/material-design-icons/4.0.0/png/file/folder/materialicons/36dp/2x/baseline_folder_black_36dp.png"
+              src="https://cloudflare-r2-oss-f0a.pages.dev/raw/file-icon-image-19.png"
               width="36"
               height="36"
               alt="Folder"
