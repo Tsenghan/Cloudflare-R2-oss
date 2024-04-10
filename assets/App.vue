@@ -55,7 +55,7 @@
         >
           <div class="file-icon">
             <img
-              src="https://cloudflare-r2-oss-f0a.pages.dev/raw/file-icon-image-19.png"
+              src="https://cloudflare-r2-oss-f0a.pages.dev/raw/icon/file-icon-image-19.png"
               width="36"
               height="36"
               alt="Folder"
@@ -76,7 +76,7 @@
         >
           <div class="file-icon">
             <img
-              src="https://cloudflare-r2-oss-f0a.pages.dev/raw/file-icon-image-19.png"
+              src="https://cloudflare-r2-oss-f0a.pages.dev/raw/icon/file-icon-image-19.png"
               width="36"
               height="36"
               alt="Folder"
